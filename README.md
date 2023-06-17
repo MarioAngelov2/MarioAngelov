@@ -1,7 +1,3 @@
-
-<h1 align="center">Hello I'm Mario</h1>
-<h3 align="center">I'm currently learning JavaScript, HTML & CSS, React at @SoftUni</h3>
-
 <p align="center">
     <a href="https://github.com/MarioAngelov2/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mario Angelov's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarioAngelov2&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
